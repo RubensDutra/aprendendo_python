@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
