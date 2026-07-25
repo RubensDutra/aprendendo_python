@@ -1,19 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="33a37d87-efb8-4c38-bc1e-b9f73c000cd9" name="Changes" comment="" />
+    <list default="true" id="33a37d87-efb8-4c38-bc1e-b9f73c000cd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicios/list_Exercicios/desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/list_Exercicios/desafio1_facil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/list_Exercicios/desafio2_medio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/list_Exercicios/desafio3_desafio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/list_Exercicios/desafio4_facil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/list_Exercicios/desafio5_medio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/list_Exercicios/desafio6_medio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/list_Exercicios/desafio7_dificil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aprendendo_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aprendendo_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000024507" />
+      <entry key="S2" value="1.0012538286242139" />
+      <entry key="S5" value="1.0843055121507261" />
+      <entry key="S10" value="1.5752709505427784" />
+      <entry key="S30" value="5.096749103642045" />
+      <entry key="S60" value="9.677809392305791" />
+      <entry key="M2" value="16.308694838327455" />
+      <entry key="M5" value="27.751011458826586" />
+      <entry key="M10" value="37.0970925259709" />
+      <entry key="M15" value="45.252172218754296" />
+      <entry key="M30" value="68.58150174302514" />
+      <entry key="H1" value="97.773051166675" />
+      <entry key="H2" value="122.08044613093796" />
+      <entry key="H4" value="137.9463821312017" />
+      <entry key="D1" value="153.57574608393202" />
+      <entry key="W1" value="156.50433954827628" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.98236962438138E-33" />
+      <entry key="MS500" value="3.311527101303921E-7" />
+      <entry key="S2" value="0.02411125673687932" />
+      <entry key="S5" value="0.2521531486861605" />
+      <entry key="S10" value="0.6393079441855782" />
+      <entry key="S30" value="1.3404496616776478" />
+      <entry key="S60" value="1.8803606782266742" />
+      <entry key="M2" value="3.226911648452039" />
+      <entry key="M5" value="6.54771369387867" />
+      <entry key="M10" value="9.551463533036262" />
+      <entry key="M15" value="12.053166281991897" />
+      <entry key="M30" value="18.614695819420483" />
+      <entry key="H1" value="26.276351274625554" />
+      <entry key="H2" value="32.41788607270332" />
+      <entry key="H4" value="36.347006503010164" />
+      <entry key="D1" value="40.16850731041087" />
+      <entry key="W1" value="40.879762426221134" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8827029962906549" />
+      <entry key="MS500" value="0.9753556036875441" />
+      <entry key="S2" value="1.0144556725303602" />
+      <entry key="S5" value="1.3104164019517797" />
+      <entry key="S10" value="2.170828993630612" />
+      <entry key="S30" value="6.36991320273796" />
+      <entry key="S60" value="11.493577236885447" />
+      <entry key="M2" value="19.478192837957444" />
+      <entry key="M5" value="34.25617604379571" />
+      <entry key="M10" value="46.61877703876378" />
+      <entry key="M15" value="57.280680252422776" />
+      <entry key="M30" value="87.17756940365624" />
+      <entry key="H1" value="124.03643427805582" />
+      <entry key="H2" value="154.49038897613912" />
+      <entry key="H4" value="174.28895104124373" />
+      <entry key="D1" value="193.74343832778175" />
+      <entry key="W1" value="197.38398353071148" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3GujfNNoS9BezY6Waj0shI61vkc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,16 +102,41 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.desafio.executor": "Run",
+    "Python.desafio1_facil.executor": "Run",
+    "Python.desafio2_medio.executor": "Run",
+    "Python.desafio3_desafio.executor": "Run",
+    "Python.desafio4_facil.executor": "Run",
+    "Python.desafio5_medio.executor": "Run",
+    "Python.desafio6_medio.executor": "Run",
+    "Python.desafio7_dificil.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.lista_de_cidades.executor": "Run",
+    "Python.lista_de_motocicleta.executor": "Run",
+    "Python.lista_de_notas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/ruben/PycharmProjects/aprendendo_python/exercicios/list_Exercicios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruben\PycharmProjects\aprendendo_python\exercicios\list_Exercicios" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -46,11 +151,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1784828452520</updated>
-      <workItem from="1784828453527" duration="2000" />
+      <workItem from="1784828453527" duration="3120000" />
+      <workItem from="1784909448603" duration="1464000" />
+      <workItem from="1784980730602" duration="130000" />
+      <workItem from="1785002021594" duration="2876000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aprendendo_python$desafio3_desafio.coverage" NAME="desafio3_desafio Coverage Results" MODIFIED="1785002658461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$desafio7_dificil.coverage" NAME="desafio7_dificil Coverage Results" MODIFIED="1785005137283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$lista_de_motocicleta.coverage" NAME="lista_de_motocicleta Coverage Results" MODIFIED="1784830818510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$list.coverage" NAME="list Coverage Results" MODIFIED="1784829188738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aulas" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$lista_de_cidades.coverage" NAME="lista_de_cidades Coverage Results" MODIFIED="1784829919907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$desafio.coverage" NAME="desafio Coverage Results" MODIFIED="1785005398609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$desafio5_medio.coverage" NAME="desafio5_medio Coverage Results" MODIFIED="1785004915954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$desafio1_facil.coverage" NAME="desafio1_facil Coverage Results" MODIFIED="1785002226441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$desafio2_medio.coverage" NAME="desafio2_medio Coverage Results" MODIFIED="1785002561031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$lista_de_notas.coverage" NAME="lista_de_notas Coverage Results" MODIFIED="1784830586402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$desafio4_facil.coverage" NAME="desafio4_facil Coverage Results" MODIFIED="1785004840050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$desafio6_medio.coverage" NAME="desafio6_medio Coverage Results" MODIFIED="1785005017449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
   </component>
 </project>
