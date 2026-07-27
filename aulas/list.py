@@ -22,3 +22,4 @@ print(len(idades))
 # Percorrendo uma List
 for nome in nomes:
     print(nome)
+
