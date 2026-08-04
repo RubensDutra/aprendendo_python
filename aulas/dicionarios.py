@@ -1,23 +1,27 @@
-# Sintaxe da tuplas
-cores = ("verde", "amarelo", "azul")
+# Sintaxe do dicionário
+pessoa = {
+    "nome": "Rubens",
+    "idade": 30,
+    "cidade": "Duque Bacelar"
+}
 
-# Acessando valores por indices
-print("====== Acessando indices======")
-print(cores[0], cores[1], cores[2])
+# Acessando valores
+print(pessoa["nome"])
+print(pessoa["idade"])
+print(pessoa["cidade"])
 
-# Acessando indices negativos do List
-print(cores[-0], cores[-1], cores[-2])
+# Adicionar uma nova informação
+pessoa["altura"] = 1.78
+print(pessoa)
 
-# Descobrindo o tamanho da tupla usando a função len()
-print(len(cores))
+# Removendo uma informação
+del pessoa["altura"]
+print(pessoa)
 
-# Metodos da tupla
- # - count
-total = cores.count("verde")
-print(total)
+# Percorrendo apenas chaves
+for k in pessoa:
+    print(k)
 
-# - index
-posicao = cores.index("verde")
-print(posicao)
-
-
+# Percorrendo chaves e valores
+for k, v in pessoa.items():
+    print(f"{k} - {v}")

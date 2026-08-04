@@ -1,15 +1,20 @@
-carro = {
-    "marca": "Toyota",
-    "modelo": "Corolla",
-    "ano": 2020
+produto = {
+    "nome": "arroz",
+    "preço": 5.99,
+    "estoque": 10,
+    "categoria": "alimentos"
 }
-print(carro)
 
-carro["ano"] = 2024
-print(carro)
+print(produto)
 
-carro.update({"cor":"prata"})
-print(carro)
+produto["preço"] = 10
+print(produto)
 
-del carro["cor"]
-print(carro)
+produto["marca"] = "tio oliveira"
+print(produto)
+
+del produto["estoque"]
+print(produto)
+
+for k, v in produto.items():
+    print(f"{k}: {v}")

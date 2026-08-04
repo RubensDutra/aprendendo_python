@@ -1,8 +1,15 @@
-aluno = {
-    "nome": "Rubens",
-    "idade": 26,
-    "curso": "ADS"
+carro = {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "ano": 2020
 }
+print(carro)
 
-for chave, valor in aluno.items():
-    print(f"{chave} - {valor}")
+carro["ano"] = 2024
+print(carro)
+
+carro.update({"cor":"prata"})
+print(carro)
+
+del carro["cor"]
+print(carro)

@@ -1,8 +1,8 @@
-aluno = {
-    "nome": "Rubens",
-    "idade": 26,
-    "curso": "ADS"
+cidade = {
+        "nome": "Duque",
+        "estado": "Ma",
+        "população": 10.000
 }
 
-for chave, valor in aluno.items():
-    print(f"{chave} - {valor}")
+print(cidade["nome"])
+print(cidade["estado"])
