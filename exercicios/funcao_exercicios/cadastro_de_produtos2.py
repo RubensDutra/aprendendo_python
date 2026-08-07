@@ -57,10 +57,4 @@ def listar_produtos_por_quantidade():
                   )
 
 
-cadastrar_produtos()
-cadastrar_produtos()
 
-listar_produtos()
-
-print("===============================")
-listar_produtos_por_quantidade()
