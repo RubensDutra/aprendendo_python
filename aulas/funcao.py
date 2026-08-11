@@ -2,26 +2,35 @@
 def exibir_mensagem():
     print("Olá, mundo!")
 
-
 # Sintaxe da função com varios Parâmetros
 def apresentar_produto(nome, preco, quantidade):
     print(f"Nome: {nome}")
     print(f"Preço: {preco}")
     print(f"Quantidade: {quantidade}")
 
-
 # Função sem return
 def somar(a, b):
     print(a + b)
+
+# Função com return
+def somar2(a, b):
+    return a + b
+
+# Função com valor padrão para idade
+def apresentar(nome, idade = 18):
+    print(f"Nome: {nome}")
+    print(f"Idade: {idade}")
+
+#Chamando a função apresentar sem passar o valor no parâmetro idade
+apresentar("Rubens")
+
+#Chamando a função apresentar passando o valor no parâmetro idade
+apresentar("Ana", 28)
 
 resulatdo = somar(10, 20)
 print(resulatdo)
 
 print("========================")
-
-# Função com return
-def somar2(a, b):
-    return a + b
 
 resulatdo = somar2(10, 20)
 print(resulatdo)

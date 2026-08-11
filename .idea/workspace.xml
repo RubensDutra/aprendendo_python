@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33a37d87-efb8-4c38-bc1e-b9f73c000cd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/funcao_exercicios/exercicio_com_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/teste2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aulas/funcao.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/funcao.py" afterDir="false" />
     </list>
@@ -26,61 +27,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000036116" />
-      <entry key="S5" value="1.0000287401445" />
-      <entry key="S10" value="1.0085697477503646" />
-      <entry key="S30" value="1.840003726770231" />
-      <entry key="S60" value="4.663996336093478" />
-      <entry key="M2" value="10.514446451907723" />
-      <entry key="M5" value="22.012844227525232" />
-      <entry key="M10" value="33.581543768932235" />
-      <entry key="M15" value="44.819686449423855" />
-      <entry key="M30" value="83.8323225780246" />
-      <entry key="H1" value="153.786134274631" />
-      <entry key="H2" value="244.62273050922937" />
-      <entry key="H4" value="376.4994824037675" />
-      <entry key="D1" value="889.0143953908982" />
-      <entry key="W1" value="1130.098741486918" />
+      <entry key="MS100" value="1.0000000079652696" />
+      <entry key="MS500" value="1.0320910094558453" />
+      <entry key="S2" value="1.7129122658199312" />
+      <entry key="S5" value="2.518723869800189" />
+      <entry key="S10" value="3.181590460117485" />
+      <entry key="S30" value="4.958955787687335" />
+      <entry key="S60" value="7.874029743034735" />
+      <entry key="M2" value="13.785098351004748" />
+      <entry key="M5" value="29.958993429087695" />
+      <entry key="M10" value="53.34484242201163" />
+      <entry key="M15" value="73.80244021120569" />
+      <entry key="M30" value="127.4502474633165" />
+      <entry key="H1" value="217.91216579146115" />
+      <entry key="H2" value="345.3855628753865" />
+      <entry key="H4" value="513.2976104667778" />
+      <entry key="D1" value="1096.0885659933265" />
+      <entry key="W1" value="1371.5432343162863" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.9689800325682423E-258" />
-      <entry key="MS500" value="2.876393259718428E-52" />
-      <entry key="S2" value="1.3023064988190953E-13" />
-      <entry key="S5" value="7.0537959145206656E-6" />
-      <entry key="S10" value="0.00285177090934081" />
-      <entry key="S30" value="0.21871815551478965" />
-      <entry key="S60" value="0.9441490759159813" />
-      <entry key="M2" value="2.563276579139071" />
-      <entry key="M5" value="6.138009182542595" />
-      <entry key="M10" value="10.294965070447425" />
-      <entry key="M15" value="14.923353322259226" />
-      <entry key="M30" value="35.14137911216616" />
-      <entry key="H1" value="78.64041701184647" />
-      <entry key="H2" value="139.1304440455393" />
-      <entry key="H4" value="219.5357392430474" />
-      <entry key="D1" value="467.60762409822183" />
-      <entry key="W1" value="571.8854358251059" />
+      <entry key="MS100" value="2.1211346040309133E-44" />
+      <entry key="MS500" value="1.8421018843920956E-9" />
+      <entry key="S2" value="0.006624663964942093" />
+      <entry key="S5" value="0.17766395033247273" />
+      <entry key="S10" value="0.7714138813172731" />
+      <entry key="S30" value="2.6958002066487867" />
+      <entry key="S60" value="4.622291617466495" />
+      <entry key="M2" value="8.05353103142919" />
+      <entry key="M5" value="15.580059651478575" />
+      <entry key="M10" value="24.867599962371138" />
+      <entry key="M15" value="32.84054629999536" />
+      <entry key="M30" value="54.58675941727795" />
+      <entry key="H1" value="97.04465757578424" />
+      <entry key="H2" value="166.93462625439383" />
+      <entry key="H4" value="262.9153013169066" />
+      <entry key="D1" value="550.1362427634689" />
+      <entry key="W1" value="672.1318915003567" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.9154885202557378E-4" />
-      <entry key="MS500" value="0.180491149440312" />
-      <entry key="S2" value="0.65179943201428" />
-      <entry key="S5" value="0.8426817246742194" />
-      <entry key="S10" value="0.929148625840418" />
-      <entry key="S30" value="2.0224836179340673" />
-      <entry key="S60" value="5.575367882762484" />
-      <entry key="M2" value="13.045411574494722" />
-      <entry key="M5" value="28.12494477954204" />
-      <entry key="M10" value="43.85579908612953" />
-      <entry key="M15" value="59.72220597502664" />
-      <entry key="M30" value="118.9454060794084" />
-      <entry key="H1" value="232.39260042020274" />
-      <entry key="H2" value="383.72214281550487" />
-      <entry key="H4" value="596.0092906227513" />
-      <entry key="D1" value="1356.6116222124124" />
-      <entry key="W1" value="1701.982313632105" />
+      <entry key="MS100" value="0.9330329915740334" />
+      <entry key="MS500" value="0.9970870458869481" />
+      <entry key="S2" value="1.5478155530774078" />
+      <entry key="S5" value="2.531463832336318" />
+      <entry key="S10" value="3.8013708363859626" />
+      <entry key="S30" value="7.52885480761136" />
+      <entry key="S60" value="12.38622311081346" />
+      <entry key="M2" value="21.737146165760297" />
+      <entry key="M5" value="45.45773599487043" />
+      <entry key="M10" value="78.14468269803031" />
+      <entry key="M15" value="106.58044727226655" />
+      <entry key="M30" value="181.98177863516193" />
+      <entry key="H1" value="314.9077079944535" />
+      <entry key="H2" value="512.2787757516697" />
+      <entry key="H4" value="776.1800471575876" />
+      <entry key="D1" value="1646.2124919257055" />
+      <entry key="W1" value="2043.6729314160418" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -92,62 +93,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.cadastro_de_pessoa.executor": "Run",
-    "Python.cadastro_de_produtos2.executor": "Run",
-    "Python.cadastro_veiculo.executor": "Run",
-    "Python.compras.executor": "Run",
-    "Python.controle_de_notas.executor": "Run",
-    "Python.desafio.executor": "Run",
-    "Python.desafio1_facil.executor": "Run",
-    "Python.desafio2_medio.executor": "Run",
-    "Python.desafio3_desafio.executor": "Run",
-    "Python.desafio4_facil.executor": "Run",
-    "Python.desafio5_medio.executor": "Run",
-    "Python.desafio6_medio.executor": "Run",
-    "Python.desafio7_dificil.executor": "Run",
-    "Python.dias_da_semana.executor": "Run",
-    "Python.dicionarios.executor": "Run",
-    "Python.exercicio1_facil.executor": "Run",
-    "Python.exercicio2_facil.executor": "Run",
-    "Python.exercicio_Medio.executor": "Run",
-    "Python.exercicio_com_return.executor": "Run",
-    "Python.exercicio_desafio.executor": "Run",
-    "Python.exercicio_dificil.executor": "Run",
-    "Python.exercicio_facil.executor": "Run",
-    "Python.exercicio_medio.executor": "Run",
-    "Python.exercicios_com_parametros.executor": "Run",
-    "Python.funcao.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.lista_de_cidades.executor": "Run",
-    "Python.lista_de_motocicleta.executor": "Run",
-    "Python.lista_de_notas.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.perfil_pessoal.executor": "Run",
-    "Python.sistema_de_motociclistas.executor": "Run",
-    "Python.sistema_de_produto.executor": "Run",
-    "Python.sistema_notas_fixas.executor": "Run",
-    "Python.tuplas.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/ruben/PycharmProjects/aprendendo_python/exercicios/funcao_exercicios",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.cadastro_de_pessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cadastro_de_produtos2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cadastro_veiculo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compras.executor&quot;: &quot;Run&quot;,
+    &quot;Python.controle_de_notas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio1_facil.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio2_medio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio3_desafio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio4_facil.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio5_medio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio6_medio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio7_dificil.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dias_da_semana.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dicionarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio1_facil.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio2_facil.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio_Medio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio_com_return.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio_desafio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio_dificil.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio_facil.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio_medio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicios_com_parametros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista_de_cidades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista_de_motocicleta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lista_de_notas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perfil_pessoal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sistema_de_motociclistas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sistema_de_produto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sistema_notas_fixas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuplas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ruben/PycharmProjects/aprendendo_python/exercicios/funcao_exercicios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ruben\PycharmProjects\aprendendo_python\exercicios\funcao_exercicios" />
@@ -185,6 +188,8 @@
       <workItem from="1786014960380" duration="7206000" />
       <workItem from="1786100330110" duration="5676000" />
       <workItem from="1786367842520" duration="4909000" />
+      <workItem from="1786385580082" duration="5423000" />
+      <workItem from="1786449279697" duration="2423000" />
     </task>
     <servers />
   </component>
@@ -207,9 +212,10 @@
     <SUITE FILE_PATH="coverage/aprendendo_python$main.coverage" NAME="main Coverage Results" MODIFIED="1785414745766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/aprendendo_python$funcao.coverage" NAME="funcao Coverage Results" MODIFIED="1786372825311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aulas" />
     <SUITE FILE_PATH="coverage/aprendendo_python$exercicio_com_return.coverage" NAME="exercicio_com_return Coverage Results" MODIFIED="1786372847466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/funcao_exercicios" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$dicionarios.coverage" NAME="dicionarios Coverage Results" MODIFIED="1785336167608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aulas" />
-    <SUITE FILE_PATH="coverage/aprendendo_python$exercicio2_facil.coverage" NAME="exercicio2_facil Coverage Results" MODIFIED="1785336766665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/dicionarios_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$teste2.coverage" NAME="teste2 Coverage Results" MODIFIED="1786390985072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aulas" />
     <SUITE FILE_PATH="coverage/aprendendo_python$exercicio_Medio.coverage" NAME="exercicio_Medio Coverage Results" MODIFIED="1785337104991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/dicionarios_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$exercicio2_facil.coverage" NAME="exercicio2_facil Coverage Results" MODIFIED="1785336766665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/dicionarios_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$dicionarios.coverage" NAME="dicionarios Coverage Results" MODIFIED="1785336167608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aulas" />
     <SUITE FILE_PATH="coverage/aprendendo_python$list.coverage" NAME="list Coverage Results" MODIFIED="1784829188738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aulas" />
     <SUITE FILE_PATH="coverage/aprendendo_python$lista_de_cidades.coverage" NAME="lista_de_cidades Coverage Results" MODIFIED="1784829919907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
     <SUITE FILE_PATH="coverage/aprendendo_python$dias_da_semana.coverage" NAME="dias_da_semana Coverage Results" MODIFIED="1786038273021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/tuplas_Exercicios" />
@@ -229,6 +235,7 @@
     <SUITE FILE_PATH="coverage/aprendendo_python$desafio.coverage" NAME="desafio Coverage Results" MODIFIED="1785061905818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/list_Exercicios" />
     <SUITE FILE_PATH="coverage/aprendendo_python$exercicios_com_parametros.coverage" NAME="exercicios_com_parametros Coverage Results" MODIFIED="1786370131624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/funcao_exercicios" />
     <SUITE FILE_PATH="coverage/aprendendo_python$exercicio_medio.coverage" NAME="exercicio_medio Coverage Results" MODIFIED="1785173432459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/tuplas_Exercicios" />
+    <SUITE FILE_PATH="coverage/aprendendo_python$teste.coverage" NAME="teste Coverage Results" MODIFIED="1786390170101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aulas" />
     <SUITE FILE_PATH="coverage/aprendendo_python$cadastro_de_pessoa.coverage" NAME="cadastro_de_pessoa Coverage Results" MODIFIED="1786101351983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/dicionarios_Exercicios" />
     <SUITE FILE_PATH="coverage/aprendendo_python$exercicio1_facil.coverage" NAME="exercicio1_facil Coverage Results" MODIFIED="1785336471616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/dicionarios_Exercicios" />
     <SUITE FILE_PATH="coverage/aprendendo_python$exercicio_dificil.coverage" NAME="exercicio_dificil Coverage Results" MODIFIED="1785346117379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercicios/dicionarios_Exercicios" />
