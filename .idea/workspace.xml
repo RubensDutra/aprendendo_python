@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33a37d87-efb8-4c38-bc1e-b9f73c000cd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/manipulacao_de_arquivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino_de_conteudo/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino_de_conteudo/dicionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino_de_conteudo/dicionario_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino_de_conteudo/dicionario_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino_de_conteudo/lista_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino_de_conteudo/lista_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino_de_conteudo/matriz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino_de_conteudo/tuplas22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/treino_de_conteudo/tuplas_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/manipulacao_de_arquivos_Exercicios/adicionando_arquivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/manipulacao_de_arquivos_Exercicios/criando_arquivo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,61 +27,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0333367112934961" />
-      <entry key="MS500" value="1.6591051269725208" />
-      <entry key="S2" value="2.9068658405938548" />
-      <entry key="S5" value="4.463037284795705" />
-      <entry key="S10" value="6.129147717374204" />
-      <entry key="S30" value="9.5808397587951" />
-      <entry key="S60" value="12.363834080052293" />
-      <entry key="M2" value="17.710653137177214" />
-      <entry key="M5" value="34.281049428616726" />
-      <entry key="M10" value="53.5953008451761" />
-      <entry key="M15" value="67.28724866185277" />
-      <entry key="M30" value="99.51932977260638" />
-      <entry key="H1" value="156.70405379405167" />
-      <entry key="H2" value="264.87763027782677" />
-      <entry key="H4" value="484.58821865038095" />
-      <entry key="D1" value="1707.7666292068768" />
-      <entry key="W1" value="2497.206889622435" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000085281397" />
+      <entry key="S5" value="1.0009119972928215" />
+      <entry key="S10" value="1.0499461605203366" />
+      <entry key="S30" value="2.060597187103647" />
+      <entry key="S60" value="4.209592816379444" />
+      <entry key="M2" value="7.362694326713354" />
+      <entry key="M5" value="11.08269579848587" />
+      <entry key="M10" value="12.85574508141649" />
+      <entry key="M15" value="13.525373131178322" />
+      <entry key="M30" value="14.23906444622929" />
+      <entry key="H1" value="14.628595224465464" />
+      <entry key="H2" value="17.539047364183972" />
+      <entry key="H4" value="64.96902589489184" />
+      <entry key="D1" value="1208.2505878578872" />
+      <entry key="W1" value="2448.2925592028346" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="4.431122926563008E-88" />
-      <entry key="S2" value="1.4510780648012264E-22" />
-      <entry key="S5" value="1.9041176578145997E-9" />
-      <entry key="S10" value="5.36335502828646E-5" />
-      <entry key="S30" value="0.07390513245747025" />
-      <entry key="S60" value="0.5696983740120426" />
-      <entry key="M2" value="1.9968229050734825" />
-      <entry key="M5" value="6.128187877556744" />
-      <entry key="M10" value="10.829371787626986" />
-      <entry key="M15" value="14.003809795400166" />
-      <entry key="M30" value="20.440223276079177" />
-      <entry key="H1" value="31.427617408716618" />
-      <entry key="H2" value="59.922910300482734" />
-      <entry key="H4" value="139.54404326462495" />
-      <entry key="D1" value="686.2732651521021" />
-      <entry key="W1" value="1045.8001971698002" />
+      <entry key="MS100" value="2.2498591607674524E-197" />
+      <entry key="MS500" value="4.68199630373217E-40" />
+      <entry key="S2" value="1.4709833826215964E-10" />
+      <entry key="S5" value="1.1669255189920138E-4" />
+      <entry key="S10" value="0.010806263895602105" />
+      <entry key="S30" value="0.2507333350665981" />
+      <entry key="S60" value="0.7645308783756034" />
+      <entry key="M2" value="1.622161881676033" />
+      <entry key="M5" value="2.741414184432622" />
+      <entry key="M10" value="3.3027984597047597" />
+      <entry key="M15" value="3.5185415654352017" />
+      <entry key="M30" value="3.7505112250818864" />
+      <entry key="H1" value="3.8761717463831666" />
+      <entry key="H2" value="4.552930151926678" />
+      <entry key="H4" value="17.902606268021152" />
+      <entry key="D1" value="473.7474962479588" />
+      <entry key="W1" value="1007.9932779723982" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9250697974031584" />
-      <entry key="MS500" value="1.6236002007610901" />
-      <entry key="S2" value="2.8913534660062377" />
-      <entry key="S5" value="4.453423132252004" />
-      <entry key="S10" value="6.122505496091726" />
-      <entry key="S30" value="9.64789404226523" />
-      <entry key="S60" value="12.91799992831798" />
-      <entry key="M2" value="19.679167682543547" />
-      <entry key="M5" value="40.36710115925043" />
-      <entry key="M10" value="64.38009951402834" />
-      <entry key="M15" value="81.24650396100363" />
-      <entry key="M30" value="119.91513241789512" />
-      <entry key="H1" value="188.08760598378723" />
-      <entry key="H2" value="324.7584508628099" />
-      <entry key="H4" value="624.0929267416076" />
-      <entry key="D1" value="2394.018421800954" />
-      <entry key="W1" value="3543.002715220727" />
+      <entry key="MS100" value="0.9201876506248751" />
+      <entry key="MS500" value="0.9835020740262483" />
+      <entry key="S2" value="0.9958497616371532" />
+      <entry key="S5" value="0.9993262396130146" />
+      <entry key="S10" value="1.0578690419322496" />
+      <entry key="S30" value="2.293528859635061" />
+      <entry key="S60" value="4.945588540802948" />
+      <entry key="M2" value="8.953232386461321" />
+      <entry key="M5" value="13.8020709370161" />
+      <entry key="M10" value="16.145126718414772" />
+      <entry key="M15" value="17.034352086044454" />
+      <entry key="M30" value="17.984461022112203" />
+      <entry key="H1" value="18.502117950850632" />
+      <entry key="H2" value="22.090255821227846" />
+      <entry key="H4" value="82.86721784102247" />
+      <entry key="D1" value="1681.9833134934481" />
+      <entry key="W1" value="3456.281627343728" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -105,11 +97,13 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.executor": "Run",
+    "Python.adicionando_arquivo.executor": "Run",
     "Python.cadastro_de_pessoa.executor": "Run",
     "Python.cadastro_de_produtos2.executor": "Run",
     "Python.cadastro_veiculo.executor": "Run",
     "Python.compras.executor": "Run",
     "Python.controle_de_notas.executor": "Run",
+    "Python.criando_arquivo.executor": "Run",
     "Python.desafio.executor": "Run",
     "Python.desafio1_facil.executor": "Run",
     "Python.desafio2_medio.executor": "Run",
@@ -159,7 +153,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/ruben/PycharmProjects/aprendendo_python/treino_de_conteudo",
+    "last_opened_file_path": "C:/Users/ruben/PycharmProjects/aprendendo_python/exercicios",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -171,11 +165,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruben\PycharmProjects\aprendendo_python\exercicios" />
       <recent name="C:\Users\ruben\PycharmProjects\aprendendo_python\treino_de_conteudo" />
       <recent name="C:\Users\ruben\PycharmProjects\aprendendo_python\exercicios\funcao_exercicios" />
       <recent name="C:\Users\ruben\PycharmProjects\aprendendo_python\exercicios\dicionarios_Exercicios" />
       <recent name="C:\Users\ruben\PycharmProjects\aprendendo_python\aulas" />
-      <recent name="C:\Users\ruben\PycharmProjects\aprendendo_python\exercicios\tuplas_Exercicios" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ruben\PycharmProjects\aprendendo_python\aulas" />

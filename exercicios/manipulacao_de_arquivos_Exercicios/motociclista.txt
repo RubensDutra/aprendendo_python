@@ -1,0 +1,6 @@
+nome:B marca:Honda modelo:CG ano:2025;
+nome:A marca:Honda modelo:CG ano:2025;
+nome:c marca:Honda modelo:CG ano:2025;
+capacete: Sim, velocidade:80
+capacete: Sim, velocidade:80 Km/h
+capacete: Sim, velocidade:80 Km/h
